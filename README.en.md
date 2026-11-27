@@ -33,15 +33,6 @@ Technology and business management enthusiast exploring software development, Sa
 ## Technologies I'm exploring
 
 <div align="center">
-<strong>Programming and scripting languages</strong><br />
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6" />
-<img alt="PLpgSQL" src="https://img.shields.io/badge/PLpgSQL-161B22?style=for-the-badge&amp;logo=postgresql&amp;logoColor=336791" />
-<img alt="CSS" src="https://img.shields.io/badge/CSS-161B22?style=for-the-badge&amp;logo=css&amp;logoColor=663399" />
-<img alt="Java" src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&amp;logo=openjdk&amp;logoColor=E76F00" />
-<img alt="NSIS" src="https://img.shields.io/badge/NSIS-161B22?style=for-the-badge&amp;logo=nsis&amp;logoColor=B8B8B8" />
-<img alt="Shell" src="https://img.shields.io/badge/Shell-161B22?style=for-the-badge&amp;logo=gnubash&amp;logoColor=89E051" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" />
-<br /><br />
 <strong>Front-end</strong><br />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" />
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6" />
@@ -105,7 +96,9 @@ Price calculation
 
 ## GitHub statistics
 
-<sub>Public activity and contribution history. Language statistics will be relevant once public code is available.</sub>
+<div align="center">
+  <img width="60%" src="https://raw.githubusercontent.com/ErivanJr-3/ErivanJr-3/main/assets/languages-card-en.svg" alt="Most used languages — project snapshot" />
+</div>
 
 <div align="center">
   <img width="49%" align="top" src="https://github-readme-stats.vercel.app/api?username=ErivanJr-3&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=default&amp;card_width=420&amp;bg_color=101923&amp;title_color=79A9DC&amp;text_color=D6E2EF&amp;icon_color=83B4E5&amp;border_color=30435A&amp;border_radius=10" alt="GitHub statistics" />
