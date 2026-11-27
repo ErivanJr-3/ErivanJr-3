@@ -33,6 +33,15 @@ Entusiasta de tecnologia e gestão empresarial, explorando o desenvolvimento de 
 ## Tecnologias em exploração
 
 <div align="center">
+<strong>Linguagens utilizadas</strong><br />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6" />
+<img alt="PLpgSQL" src="https://img.shields.io/badge/PLpgSQL-161B22?style=for-the-badge&amp;logo=postgresql&amp;logoColor=336791" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS-161B22?style=for-the-badge&amp;logo=css&amp;logoColor=663399" />
+<img alt="Java" src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&amp;logo=openjdk&amp;logoColor=E76F00" />
+<img alt="NSIS" src="https://img.shields.io/badge/NSIS-161B22?style=for-the-badge&amp;logo=nsis&amp;logoColor=B8B8B8" />
+<img alt="Shell" src="https://img.shields.io/badge/Shell-161B22?style=for-the-badge&amp;logo=gnubash&amp;logoColor=89E051" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" />
+<br /><br />
 <strong>Front-end</strong><br />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" />
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6" />
