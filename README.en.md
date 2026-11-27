@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ErivanJr-3/ErivanJr-3/main/assets/banner-en.svg" alt="Erivan Junior — Technology, Business &amp; Innovation" />
+  <img width="100%" src="https://raw.githubusercontent.com/ErivanJr-3/ErivanJr-3/main/assets/banner-terminal-en.svg" alt="Erivan Junior — Technology, Business &amp; Innovation" />
   <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=91A7C3&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Turning+ideas+into+digital+solutions;Technology+%7C+Business+%7C+Innovation" alt="Animated introduction" />
 </div>
 
