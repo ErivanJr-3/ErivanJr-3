@@ -87,23 +87,11 @@ Cálculo de preços
 
 ## Estatísticas do GitHub
 
-<div align="center">
-  <img width="38%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErivanJr-3&amp;locale=pt-br&amp;layout=compact&amp;langs_count=6&amp;card_width=300&amp;bg_color=101923&amp;title_color=79A9DC&amp;text_color=D6E2EF&amp;icon_color=83B4E5&amp;border_color=30435A&amp;border_radius=10" alt="Linguagens mais utilizadas" />
-  <img width="60%" align="top" src="https://github-readme-stats.vercel.app/api?username=ErivanJr-3&amp;locale=pt-br&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=default&amp;card_width=450&amp;bg_color=101923&amp;title_color=79A9DC&amp;text_color=D6E2EF&amp;icon_color=83B4E5&amp;border_color=30435A&amp;border_radius=10" alt="Estatísticas do GitHub" />
-</div>
+<sub>Atividade pública e histórico de contribuições. As estatísticas de linguagens serão relevantes quando houver código público.</sub>
 
 <div align="center">
-  <a href="https://github.com/ErivanJr-3/ErivanJr-3"><img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=ErivanJr-3&amp;repo=ErivanJr-3&amp;locale=pt-br&amp;bg_color=101923&amp;title_color=79A9DC&amp;text_color=D6E2EF&amp;icon_color=83B4E5&amp;border_color=30435A&amp;border_radius=10&amp;description_lines_count=2" alt="Repositório público do perfil" /></a>
-</div>
-
-<div align="center">
-<img width="75%" src="https://streak-stats.demolab.com?user=ErivanJr-3&amp;theme=dark&amp;background=0D1117&amp;ring=91A7C3&amp;fire=79A9DC&amp;currStreakLabel=91A7C3&amp;border=30363D&amp;locale=pt_BR" alt="Sequência de contribuições" />
-</div>
-
-## Atividade recente
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErivanJr-3&amp;bg_color=0d1117&amp;color=91A7C3&amp;line=5C84B1&amp;point=C9D1D9&amp;area=true&amp;area_color=36577D&amp;hide_border=false&amp;border_color=30363D&amp;custom_title=Atividade%20no%20GitHub" alt="Gráfico de atividade" />
+  <img width="49%" align="top" src="https://github-readme-stats.vercel.app/api?username=ErivanJr-3&amp;locale=pt-br&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=default&amp;card_width=420&amp;bg_color=101923&amp;title_color=79A9DC&amp;text_color=D6E2EF&amp;icon_color=83B4E5&amp;border_color=30435A&amp;border_radius=10" alt="Estatísticas do GitHub" />
+  <img width="49%" align="top" src="https://streak-stats.demolab.com?user=ErivanJr-3&amp;theme=dark&amp;background=101923&amp;ring=91A7C3&amp;fire=79A9DC&amp;currStreakLabel=91A7C3&amp;border=30435A&amp;border_radius=10&amp;card_width=420&amp;locale=pt_BR" alt="Sequência de contribuições" />
 </div>
 
 ## Contribuições
