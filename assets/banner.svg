@@ -4,6 +4,7 @@
 <g fill="none" stroke="#536d91" opacity=".22"><path d="M0 190H105L165 130H240"/><path d="M1200 60H1095L1035 120H960"/><circle cx="240" cy="130" r="4"/><circle cx="960" cy="120" r="4"/></g>
 <text x="600" y="54" font-family="Arial,sans-serif" font-size="14" letter-spacing="4" text-anchor="middle" fill="#8b9db5">PORTFOLIO / GITHUB</text>
 <text x="600" y="119" font-family="Arial,sans-serif" font-weight="700" font-size="54" letter-spacing="-1" text-anchor="middle" fill="#e6edf3">Erivan Junior</text>
-<text x="600" y="155" font-family="Arial,sans-serif" font-size="17" letter-spacing="3" text-anchor="middle" fill="#9baec5">TECHNOLOGY · BUSINESS · INNOVATION</text>
-<rect x="554" y="183" width="92" height="2" rx="1" fill="#6684aa"><animate attributeName="opacity" values=".5;1;.5" dur="5s" repeatCount="indefinite"/></rect>
+<text x="600" y="155" font-family="Arial,sans-serif" font-size="17" letter-spacing="3" text-anchor="middle" fill="#9baec5">TECNOLOGIA · NEGÓCIOS · INOVAÇÃO</text>
+<text x="600" y="173" font-family="Arial,sans-serif" font-size="13" letter-spacing="2" text-anchor="middle" fill="#9baec5">TECHNOLOGY · BUSINESS · INNOVATION</text>
+<rect x="554" y="190" width="92" height="2" rx="1" fill="#6684aa"><animate attributeName="opacity" values=".5;1;.5" dur="5s" repeatCount="indefinite"/></rect>
 <text x="600" y="219" font-family="Arial,sans-serif" font-size="13" text-anchor="middle" fill="#8494a9">@ErivanJr-3</text></svg>
