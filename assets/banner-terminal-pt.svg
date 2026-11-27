@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title">
+<title id="title">Erivan Junior — Tecnologia e inovação</title>
+<defs>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop stop-color="#0d1117"/><stop offset=".65" stop-color="#101a29"/><stop offset="1" stop-color="#172c43"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#4383bd" stop-opacity=".25"/><stop offset="1" stop-color="#4383bd" stop-opacity="0"/></radialGradient>
+<linearGradient id="line"><stop stop-color="#284361" stop-opacity="0"/><stop offset=".5" stop-color="#79a9dc"/><stop offset="1" stop-color="#284361" stop-opacity="0"/></linearGradient>
+<linearGradient id="name" x2="0" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#b4c9e1"/></linearGradient>
+<pattern id="dots" width="23" height="23" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".9" fill="#7b9ab8" opacity=".15"/></pattern>
+<clipPath id="clip"><rect x="1" y="1" width="1198" height="328" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="330" fill="url(#bg)"/><rect width="1200" height="330" fill="url(#dots)"/>
+<ellipse cx="985" cy="145" rx="370" ry="240" fill="url(#glow)"><animate attributeName="opacity" values=".65;1;.65" dur="8s" repeatCount="indefinite"/></ellipse>
+<g transform="translate(702 39)">
+<rect x="5" y="8" width="448" height="222" rx="12" fill="#05080e" opacity=".45"/>
+<rect width="448" height="222" rx="12" fill="#0b1019" stroke="#3a516d" stroke-width="1.5"/>
+<path d="M12 0H436Q448 0 448 12V34H0V12Q0 0 12 0Z" fill="#1d2b40"/>
+<circle cx="18" cy="17" r="4.5" fill="#f07878"/><circle cx="34" cy="17" r="4.5" fill="#e8bd64"/><circle cx="50" cy="17" r="4.5" fill="#70c99c"/>
+<text x="224" y="21" text-anchor="middle" font-family="monospace" font-size="12" fill="#a7bdd5">erivan@portfolio: ~</text>
+<path d="M0 34H448" stroke="#30435a"/>
+<g font-family="Consolas,monospace" font-size="15">
+<text x="19" y="59" fill="#9bc4ef">$ whoami</text>
+<text x="19" y="84" fill="#e6edf3">Erivan Junior</text>
+<text x="19" y="109" fill="#9bc4ef">$ cat interesses</text>
+<text x="19" y="134" fill="#c5d5e7">  SaaS · IA · Automação</text>
+<text x="19" y="159" fill="#9bc4ef">$ ./criar --futuro</text>
+<text x="19" y="184" fill="#71d6a1">✓ Sempre aprendendo...</text>
+<rect x="19" y="193" width="8" height="15" rx="1" fill="#8bb8e4"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.45;.5;.95;1" dur="1.2s" repeatCount="indefinite"/></rect>
+</g></g>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="65" y="48" width="8" height="8" rx="2" fill="#80a9d3"/>
+<text x="88" y="57" font-size="13" letter-spacing="3" fill="#9bb4ce">PORTFÓLIO PESSOAL</text>
+<text x="63" y="139" font-size="68" font-weight="700" letter-spacing="-2" fill="url(#name)">Erivan Junior<tspan fill="#80a9d3">.</tspan></text>
+<text x="68" y="180" font-size="20" fill="#a7bdd5">Transformando ideias em soluções digitais.</text>
+<g font-size="13" font-weight="600" fill="#bbd0e6">
+<rect x="65" y="209" width="110" height="32" rx="7" fill="#17293e" stroke="#2f4661"/><text x="120" y="230" text-anchor="middle">SaaS</text>
+<rect x="185" y="209" width="110" height="32" rx="7" fill="#17293e" stroke="#2f4661"/><text x="240" y="230" text-anchor="middle">IA</text>
+<rect x="305" y="209" width="130" height="32" rx="7" fill="#17293e" stroke="#2f4661"/><text x="370" y="230" text-anchor="middle">Automação</text>
+<rect x="445" y="209" width="145" height="32" rx="7" fill="#17293e" stroke="#2f4661"/><text x="517" y="230" text-anchor="middle">Desenvolvimento</text>
+</g>
+<text x="68" y="286" font-size="15" fill="#839bb6">@ErivanJr-3</text>
+<text x="1128" y="286" font-size="12" letter-spacing="2" text-anchor="end" fill="#839bb6">CRIAR · APRENDER · INOVAR</text>
+</g>
+<rect x="0" y="327" width="1200" height="3" fill="url(#line)"><animate attributeName="opacity" values=".4;1;.4" dur="5s" repeatCount="indefinite"/></rect>
+</g><rect x="1" y="1" width="1198" height="328" rx="20" fill="none" stroke="#30435a"/>
+</svg>
