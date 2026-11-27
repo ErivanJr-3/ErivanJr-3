@@ -88,8 +88,12 @@ Cálculo de preços
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ErivanJr-3&amp;locale=pt-br&amp;show_icons=true&amp;hide_border=false&amp;rank_icon=github&amp;bg_color=0D1117&amp;title_color=91A7C3&amp;text_color=C9D1D9&amp;icon_color=7994B8&amp;border_color=30363D" alt="Estatísticas do GitHub" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErivanJr-3&amp;locale=pt-br&amp;layout=compact&amp;hide_border=false&amp;bg_color=0D1117&amp;title_color=91A7C3&amp;text_color=C9D1D9&amp;icon_color=7994B8&amp;border_color=30363D" alt="Linguagens mais utilizadas" />
+  <img width="38%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErivanJr-3&amp;locale=pt-br&amp;layout=compact&amp;langs_count=6&amp;card_width=300&amp;bg_color=101923&amp;title_color=79A9DC&amp;text_color=D6E2EF&amp;icon_color=83B4E5&amp;border_color=30435A&amp;border_radius=10" alt="Linguagens mais utilizadas" />
+  <img width="60%" align="top" src="https://github-readme-stats.vercel.app/api?username=ErivanJr-3&amp;locale=pt-br&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=default&amp;card_width=450&amp;bg_color=101923&amp;title_color=79A9DC&amp;text_color=D6E2EF&amp;icon_color=83B4E5&amp;border_color=30435A&amp;border_radius=10" alt="Estatísticas do GitHub" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/ErivanJr-3/ErivanJr-3"><img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=ErivanJr-3&amp;repo=ErivanJr-3&amp;locale=pt-br&amp;bg_color=101923&amp;title_color=79A9DC&amp;text_color=D6E2EF&amp;icon_color=83B4E5&amp;border_color=30435A&amp;border_radius=10&amp;description_lines_count=2" alt="Repositório público do perfil" /></a>
 </div>
 
 <div align="center">
