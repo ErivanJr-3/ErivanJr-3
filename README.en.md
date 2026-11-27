@@ -38,6 +38,7 @@ Technology and business management enthusiast exploring software development, Sa
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6" />
 <img alt="React" src="https://img.shields.io/badge/React-161B22?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=FFFFFF" />
+<img alt="Remotion" src="https://img.shields.io/badge/Remotion-161B22?style=for-the-badge&amp;logo=remotion&amp;logoColor=0B84F3" />
 <br /><br />
 <strong>Back-end & database</strong><br />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=5FA04E" />
@@ -47,6 +48,10 @@ Technology and business management enthusiast exploring software development, Sa
 <strong>Tools</strong><br />
 <img alt="Git" src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&amp;logo=git&amp;logoColor=F05032" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" />
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-161B22?style=for-the-badge&amp;logo=vercel&amp;logoColor=FFFFFF" />
+<br /><br />
+<strong>Electronics & embedded systems</strong><br />
+<img alt="Arduino" src="https://img.shields.io/badge/Arduino-161B22?style=for-the-badge&amp;logo=arduino&amp;logoColor=00979D" />
 </div>
 
 ## Featured project
