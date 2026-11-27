@@ -87,23 +87,11 @@ Price calculation
 
 ## GitHub statistics
 
-<div align="center">
-  <img width="38%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErivanJr-3&amp;layout=compact&amp;langs_count=6&amp;card_width=300&amp;bg_color=101923&amp;title_color=79A9DC&amp;text_color=D6E2EF&amp;icon_color=83B4E5&amp;border_color=30435A&amp;border_radius=10" alt="Top languages" />
-  <img width="60%" align="top" src="https://github-readme-stats.vercel.app/api?username=ErivanJr-3&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=default&amp;card_width=450&amp;bg_color=101923&amp;title_color=79A9DC&amp;text_color=D6E2EF&amp;icon_color=83B4E5&amp;border_color=30435A&amp;border_radius=10" alt="GitHub statistics" />
-</div>
+<sub>Public activity and contribution history. Language statistics will be relevant once public code is available.</sub>
 
 <div align="center">
-  <a href="https://github.com/ErivanJr-3/ErivanJr-3"><img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=ErivanJr-3&amp;repo=ErivanJr-3&amp;bg_color=101923&amp;title_color=79A9DC&amp;text_color=D6E2EF&amp;icon_color=83B4E5&amp;border_color=30435A&amp;border_radius=10&amp;description_lines_count=2" alt="Public profile repository" /></a>
-</div>
-
-<div align="center">
-<img width="75%" src="https://streak-stats.demolab.com?user=ErivanJr-3&amp;theme=dark&amp;background=0D1117&amp;ring=91A7C3&amp;fire=79A9DC&amp;currStreakLabel=91A7C3&amp;border=30363D&amp;locale=en" alt="Contribution streak" />
-</div>
-
-## Recent activity
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErivanJr-3&amp;bg_color=0d1117&amp;color=91A7C3&amp;line=5C84B1&amp;point=C9D1D9&amp;area=true&amp;area_color=36577D&amp;hide_border=false&amp;border_color=30363D&amp;custom_title=GitHub%20activity" alt="Activity graph" />
+  <img width="49%" align="top" src="https://github-readme-stats.vercel.app/api?username=ErivanJr-3&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=default&amp;card_width=420&amp;bg_color=101923&amp;title_color=79A9DC&amp;text_color=D6E2EF&amp;icon_color=83B4E5&amp;border_color=30435A&amp;border_radius=10" alt="GitHub statistics" />
+  <img width="49%" align="top" src="https://streak-stats.demolab.com?user=ErivanJr-3&amp;theme=dark&amp;background=101923&amp;ring=91A7C3&amp;fire=79A9DC&amp;currStreakLabel=91A7C3&amp;border=30435A&amp;border_radius=10&amp;card_width=420&amp;locale=en" alt="Contribution streak" />
 </div>
 
 ## Contributions
