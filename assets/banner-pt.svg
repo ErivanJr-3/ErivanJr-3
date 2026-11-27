@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="t"><title id="t">Erivan Junior — Tecnologia, Negócios, Inovação</title>
+<defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#132238"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#53749b" stroke-opacity=".09"/></pattern></defs>
+<rect x="1" y="1" width="1198" height="248" rx="15" fill="url(#bg)" stroke="#303b4c"/><rect x="2" y="2" width="1196" height="246" rx="14" fill="url(#grid)"/>
+<g fill="none" stroke="#536d91" opacity=".22"><path d="M0 190H105L165 130H240"/><path d="M1200 60H1095L1035 120H960"/><circle cx="240" cy="130" r="4"/><circle cx="960" cy="120" r="4"/></g>
+<text x="600" y="54" font-family="Arial,sans-serif" font-size="14" letter-spacing="4" text-anchor="middle" fill="#8b9db5">PORTFÓLIO / GITHUB</text>
+<text x="600" y="119" font-family="Arial,sans-serif" font-weight="700" font-size="54" letter-spacing="-1" text-anchor="middle" fill="#e6edf3">Erivan Junior</text>
+<text x="600" y="155" font-family="Arial,sans-serif" font-size="17" letter-spacing="3" text-anchor="middle" fill="#9baec5">TECNOLOGIA · NEGÓCIOS · INOVAÇÃO</text>
+<rect x="554" y="190" width="92" height="2" rx="1" fill="#6684aa"><animate attributeName="opacity" values=".5;1;.5" dur="5s" repeatCount="indefinite"/></rect>
+<text x="600" y="219" font-family="Arial,sans-serif" font-size="13" text-anchor="middle" fill="#8494a9">@ErivanJr-3</text></svg>
