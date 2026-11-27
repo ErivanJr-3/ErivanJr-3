@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/ErivanJr-3"><img alt="Português" src="https://img.shields.io/badge/Portugu%C3%AAs-161B22?style=for-the-badge" /></a>
-  <a href="https://github.com/ErivanJr-3/ErivanJr-3/blob/main/README.en.md"><img alt="English" src="https://img.shields.io/badge/English-36577D?style=for-the-badge" /></a>
+  <a href="https://github.com/ErivanJr-3"><img alt="Português" src="https://raw.githubusercontent.com/ErivanJr-3/ErivanJr-3/main/assets/lang-pt-idle.svg" /></a>
+  <a href="https://github.com/ErivanJr-3/ErivanJr-3/blob/main/README.en.md"><img alt="English" src="https://raw.githubusercontent.com/ErivanJr-3/ErivanJr-3/main/assets/lang-en-active.svg" /></a>
 </div>
 
 <div align="center">
