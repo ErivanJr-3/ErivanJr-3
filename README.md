@@ -14,11 +14,11 @@
 <img  src="https://img.shields.io/github/stars/ErivanJr-3?style=for-the-badge&amp;color=36577D&amp;labelColor=161B22&amp;label=Estrelas" alt="Estrelas" />
 </div>
 
-## ✦ Sobre mim
+## Sobre mim
 
 Entusiasta de tecnologia e gestão empresarial, explorando o desenvolvimento de sistemas, SaaS, inteligência artificial e automação de processos. Meu objetivo é transformar desafios reais em soluções digitais úteis, eficientes e intuitivas.
 
-## 🚀 Áreas de foco
+## Áreas de foco
 
 | Desenvolvimento de sistemas | Inteligência artificial |
 | :--- | :--- |
@@ -26,7 +26,7 @@ Entusiasta de tecnologia e gestão empresarial, explorando o desenvolvimento de 
 | **Automação de processos** | **Gestão empresarial** |
 | Simplificação de tarefas e rotinas digitais. | Sistemas de apoio à organização e à tomada de decisões. |
 
-## 🛠️ Tecnologias em exploração
+## Tecnologias em exploração
 
 <div align="center">
 <strong>Front-end</strong><br />
@@ -45,13 +45,13 @@ Entusiasta de tecnologia e gestão empresarial, explorando o desenvolvimento de 
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" />
 </div>
 
-## 📌 Projeto em destaque
+## Projeto em destaque
 
 <table>
 <tr>
 <td colspan="3">
 
-**Gestão MEI** &nbsp; · &nbsp; <sub>🔒 Em desenvolvimento</sub>
+**Gestão MEI** &nbsp; · &nbsp; <sub>Em desenvolvimento</sub>
 
 Uma solução digital para simplificar a gestão de microempreendedores.
 
@@ -60,21 +60,21 @@ Uma solução digital para simplificar a gestão de microempreendedores.
 <tr>
 <td align="center" width="33%">
 
-📅 **Agenda**
+**Agenda**
 
 Organização de atendimentos
 
 </td>
 <td align="center" width="33%">
 
-📦 **Estoque**
+**Estoque**
 
 Controle de produtos
 
 </td>
 <td align="center" width="33%">
 
-💲 **Precificação**
+**Precificação**
 
 Cálculo de preços
 
@@ -82,10 +82,10 @@ Cálculo de preços
 </tr>
 </table>
 
-<sub>🔒 Repositório privado</sub>
+<sub>Repositório privado</sub>
 
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ErivanJr-3&amp;locale=pt-br&amp;show_icons=true&amp;hide_border=false&amp;rank_icon=github&amp;bg_color=0D1117&amp;title_color=91A7C3&amp;text_color=C9D1D9&amp;icon_color=7994B8&amp;border_color=30363D" alt="Estatísticas do GitHub" />
@@ -96,13 +96,13 @@ Cálculo de preços
 <img width="75%" src="https://streak-stats.demolab.com?user=ErivanJr-3&amp;theme=dark&amp;background=0D1117&amp;ring=91A7C3&amp;fire=79A9DC&amp;currStreakLabel=91A7C3&amp;border=30363D&amp;locale=pt_BR" alt="Sequência de contribuições" />
 </div>
 
-## 📈 Atividade recente
+## Atividade recente
 
 <div align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErivanJr-3&amp;bg_color=0d1117&amp;color=91A7C3&amp;line=5C84B1&amp;point=C9D1D9&amp;area=true&amp;area_color=36577D&amp;hide_border=false&amp;border_color=30363D&amp;custom_title=Atividade%20no%20GitHub" alt="Gráfico de atividade" />
 </div>
 
-## 🐍 Contribuições
+## Contribuições
 
 <!-- The first successful GitHub Actions run publishes these images to the output branch. -->
 <img alt="Cobra de contribuições" width="100%" src="https://raw.githubusercontent.com/ErivanJr-3/ErivanJr-3/output/github-snake-dark.svg" />
