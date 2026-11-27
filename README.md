@@ -47,19 +47,43 @@ Entusiasta de tecnologia e gestão empresarial, explorando o desenvolvimento de 
 
 ## 📌 Projeto em destaque
 
-### Gestão MEI
+<table>
+<tr>
+<td colspan="3">
 
-Sistema em desenvolvimento voltado à organização de pequenos negócios.
+**Gestão MEI** &nbsp; · &nbsp; <sub>🔒 Em desenvolvimento</sub>
 
-<div align="center">
-<img  src="https://img.shields.io/badge/Agenda-223B55?style=for-the-badge" alt="Agenda" />
-<img  src="https://img.shields.io/badge/Estoque-223B55?style=for-the-badge" alt="Estoque" />
-<img  src="https://img.shields.io/badge/Precifica%C3%A7%C3%A3o-223B55?style=for-the-badge" alt="Precificação" />
-</div>
+Uma solução digital para simplificar a gestão de microempreendedores.
 
-**Objetivo:** facilitar a gestão de microempreendedores, reunindo funcionalidades essenciais em uma única solução digital.
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
 
-*Projeto privado em desenvolvimento.*
+📅 **Agenda**
+
+Organização de atendimentos
+
+</td>
+<td align="center" width="33%">
+
+📦 **Estoque**
+
+Controle de produtos
+
+</td>
+<td align="center" width="33%">
+
+💲 **Precificação**
+
+Cálculo de preços
+
+</td>
+</tr>
+</table>
+
+<sub>🔒 Repositório privado</sub>
+
 
 ## 📊 Estatísticas do GitHub
 
