@@ -9,6 +9,10 @@
 </div>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/erivan-junior-584677452/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+</div>
+
+<div align="center">
 <img  src="https://komarev.com/ghpvc/?username=ErivanJr-3&amp;style=for-the-badge&amp;color=36577D&amp;label=VISITAS" alt="Visualizações" />
 <img  src="https://img.shields.io/github/followers/ErivanJr-3?style=for-the-badge&amp;color=36577D&amp;labelColor=161B22&amp;logo=github&amp;label=Seguidores" alt="Seguidores" />
 <img  src="https://img.shields.io/github/stars/ErivanJr-3?style=for-the-badge&amp;color=36577D&amp;labelColor=161B22&amp;label=Estrelas" alt="Estrelas" />
@@ -98,6 +102,15 @@ Cálculo de preços
 
 <!-- The first successful GitHub Actions run publishes these images to the output branch. -->
 <img alt="Cobra de contribuições" width="100%" src="https://raw.githubusercontent.com/ErivanJr-3/ErivanJr-3/output/github-snake-dark.svg" />
+
+## Conecte-se comigo
+
+Vamos trocar ideias sobre tecnologia, inovação e projetos digitais.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/erivan-junior-584677452/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/ErivanJr-3"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+</div>
 
 ---
 
