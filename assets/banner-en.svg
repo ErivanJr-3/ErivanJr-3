@@ -1,9 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="t"><title id="t">Erivan Junior — Technology, Business, Innovation</title>
-<defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#132238"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#53749b" stroke-opacity=".09"/></pattern></defs>
-<rect x="1" y="1" width="1198" height="248" rx="15" fill="url(#bg)" stroke="#303b4c"/><rect x="2" y="2" width="1196" height="246" rx="14" fill="url(#grid)"/>
-<g fill="none" stroke="#536d91" opacity=".22"><path d="M0 190H105L165 130H240"/><path d="M1200 60H1095L1035 120H960"/><circle cx="240" cy="130" r="4"/><circle cx="960" cy="120" r="4"/></g>
-<text x="600" y="54" font-family="Arial,sans-serif" font-size="14" letter-spacing="4" text-anchor="middle" fill="#8b9db5">PORTFOLIO / GITHUB</text>
-<text x="600" y="119" font-family="Arial,sans-serif" font-weight="700" font-size="54" letter-spacing="-1" text-anchor="middle" fill="#e6edf3">Erivan Junior</text>
-<text x="600" y="155" font-family="Arial,sans-serif" font-size="17" letter-spacing="3" text-anchor="middle" fill="#9baec5">TECHNOLOGY · BUSINESS · INNOVATION</text>
-<rect x="554" y="190" width="92" height="2" rx="1" fill="#6684aa"><animate attributeName="opacity" values=".5;1;.5" dur="5s" repeatCount="indefinite"/></rect>
-<text x="600" y="219" font-family="Arial,sans-serif" font-size="13" text-anchor="middle" fill="#8494a9">@ErivanJr-3</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title">
+<title id="title">Erivan Junior — Technology and innovation</title>
+<defs>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop stop-color="#0d1117"/><stop offset=".65" stop-color="#101a29"/><stop offset="1" stop-color="#172c43"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#4383bd" stop-opacity=".25"/><stop offset="1" stop-color="#4383bd" stop-opacity="0"/></radialGradient>
+<linearGradient id="line"><stop stop-color="#284361" stop-opacity="0"/><stop offset=".5" stop-color="#79a9dc"/><stop offset="1" stop-color="#284361" stop-opacity="0"/></linearGradient>
+<linearGradient id="name" x2="0" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#b4c9e1"/></linearGradient>
+<pattern id="dots" width="23" height="23" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".9" fill="#7b9ab8" opacity=".15"/></pattern>
+<clipPath id="clip"><rect x="1" y="1" width="1198" height="328" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="330" fill="url(#bg)"/><rect width="1200" height="330" fill="url(#dots)"/>
+<ellipse cx="985" cy="145" rx="370" ry="240" fill="url(#glow)"><animate attributeName="opacity" values=".65;1;.65" dur="8s" repeatCount="indefinite"/></ellipse>
+<g transform="translate(986 165)" fill="none" stroke="#6e9ac5">
+<circle r="122" opacity=".12"/><circle r="97" opacity=".22" stroke-dasharray="3 9"/><circle r="73" opacity=".17"/>
+<g opacity=".5"><path d="M0 -122 A122 122 0 0 1 122 0" stroke-width="2" stroke-linecap="round"/><circle cy="-122" r="3" fill="#94b8dc" stroke="none"/><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="40s" repeatCount="indefinite"/></g>
+<path d="M-27 -22L-51 0L-27 22M27 -22L51 0L27 22M12 -36L-12 36" stroke="#a2c0df" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="65" y="48" width="8" height="8" rx="2" fill="#80a9d3"/>
+<text x="88" y="57" font-size="13" letter-spacing="3" fill="#9bb4ce">PERSONAL PORTFOLIO</text>
+<text x="63" y="139" font-size="68" font-weight="700" letter-spacing="-2" fill="url(#name)">Erivan Junior<tspan fill="#80a9d3">.</tspan></text>
+<text x="68" y="180" font-size="20" fill="#a7bdd5">Turning ideas into digital solutions.</text>
+<g font-size="13" font-weight="600" fill="#bbd0e6">
+<rect x="65" y="209" width="110" height="32" rx="7" fill="#17293e" stroke="#2f4661"/><text x="120" y="230" text-anchor="middle">SaaS</text>
+<rect x="185" y="209" width="110" height="32" rx="7" fill="#17293e" stroke="#2f4661"/><text x="240" y="230" text-anchor="middle">AI</text>
+<rect x="305" y="209" width="130" height="32" rx="7" fill="#17293e" stroke="#2f4661"/><text x="370" y="230" text-anchor="middle">Automation</text>
+<rect x="445" y="209" width="145" height="32" rx="7" fill="#17293e" stroke="#2f4661"/><text x="517" y="230" text-anchor="middle">Development</text>
+</g>
+<text x="68" y="286" font-size="15" fill="#839bb6">@ErivanJr-3</text>
+<text x="1128" y="286" font-size="12" letter-spacing="2" text-anchor="end" fill="#839bb6">BUILD · LEARN · INNOVATE</text>
+</g>
+<rect x="0" y="327" width="1200" height="3" fill="url(#line)"><animate attributeName="opacity" values=".4;1;.4" dur="5s" repeatCount="indefinite"/></rect>
+</g><rect x="1" y="1" width="1198" height="328" rx="20" fill="none" stroke="#30435a"/>
+</svg>
