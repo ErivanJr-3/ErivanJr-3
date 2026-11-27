@@ -1,12 +1,6 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
-    <img width="100%" src="./assets/banner.svg" alt="Erivan Junior — Technology, Business &amp; Innovation" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=45658D&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais;Turning+ideas+into+digital+solutions;Technology+%7C+Business+%7C+Innovation" />
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=91A7C3&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais;Turning+ideas+into+digital+solutions;Technology+%7C+Business+%7C+Innovation" alt="Animated introduction" />
-  </picture>
+  <img width="100%" src="https://raw.githubusercontent.com/ErivanJr-3/ErivanJr-3/main/assets/banner.svg" alt="Erivan Junior — Technology, Business &amp; Innovation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=91A7C3&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais;Turning+ideas+into+digital+solutions;Technology+%7C+Business+%7C+Innovation" alt="Animated introduction" />
 </div>
 
 ## Sobre mim | About me
@@ -18,10 +12,15 @@
 ## Tecnologias em exploração | Technologies I'm exploring
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,supabase,postgres,git,github&amp;perline=9&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,supabase,postgres,git,github&amp;perline=9&amp;theme=dark" alt="JavaScript, TypeScript, React, Next.js, Node.js, Supabase, PostgreSQL, Git and GitHub" />
-  </picture>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&amp;logo=javascript&amp;logoColor=91A7C3" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&amp;logo=typescript&amp;logoColor=91A7C3" />
+  <img alt="React" src="https://img.shields.io/badge/React-161B22?style=for-the-badge&amp;logo=react&amp;logoColor=91A7C3" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=91A7C3" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=91A7C3" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-161B22?style=for-the-badge&amp;logo=supabase&amp;logoColor=91A7C3" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&amp;logo=postgresql&amp;logoColor=91A7C3" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&amp;logo=git&amp;logoColor=91A7C3" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=91A7C3" />
 </div>
 
 ## Projetos em destaque | Featured projects
@@ -35,24 +34,14 @@
 ## Estatísticas | GitHub analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ErivanJr-3&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=F6F8FA&amp;title_color=36577D&amp;text_color=334155&amp;icon_color=45658D&amp;border_color=D0D7DE" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ErivanJr-3&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=0D1117&amp;title_color=91A7C3&amp;text_color=C9D1D9&amp;icon_color=7994B8&amp;border_color=30363D" alt="GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ErivanJr-3&amp;layout=compact&amp;hide_border=true&amp;bg_color=F6F8FA&amp;title_color=36577D&amp;text_color=334155&amp;icon_color=45658D&amp;border_color=D0D7DE" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErivanJr-3&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=91A7C3&amp;text_color=C9D1D9&amp;icon_color=7994B8&amp;border_color=30363D" alt="Most used public repository languages" />
-  </picture>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ErivanJr-3&amp;show_icons=true&amp;hide_border=false&amp;rank_icon=github&amp;bg_color=0D1117&amp;title_color=91A7C3&amp;text_color=C9D1D9&amp;icon_color=7994B8&amp;border_color=30363D" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErivanJr-3&amp;layout=compact&amp;hide_border=false&amp;bg_color=0D1117&amp;title_color=91A7C3&amp;text_color=C9D1D9&amp;icon_color=7994B8&amp;border_color=30363D" alt="Most used public repository languages" />
 </div>
 
 ## Contribuições | Contributions
 
 <!-- The first successful GitHub Actions run publishes these images to the output branch. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErivanJr-3/ErivanJr-3/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErivanJr-3/ErivanJr-3/output/github-snake.svg" />
-  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/ErivanJr-3/ErivanJr-3/output/github-snake.svg" />
-</picture>
+<img alt="Animated GitHub contribution snake" width="100%" src="https://raw.githubusercontent.com/ErivanJr-3/ErivanJr-3/output/github-snake-dark.svg" />
 
 ---
 
