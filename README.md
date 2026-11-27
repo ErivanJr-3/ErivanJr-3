@@ -14,7 +14,7 @@
 
 <div align="center">
 <img  src="https://komarev.com/ghpvc/?username=ErivanJr-3&amp;style=for-the-badge&amp;color=36577D&amp;label=VISITAS" alt="Visualizações" />
-<img  src="https://img.shields.io/github/followers/ErivanJr-3?style=for-the-badge&amp;color=36577D&amp;labelColor=161B22&amp;logo=github&amp;label=Seguidores" alt="Seguidores" />
+<img  src="https://img.shields.io/github/followers/ErivanJr-3?style=for-the-badge&amp;color=36577D&amp;labelColor=161B22&amp;logo=github&amp;label=Seguidores&amp;cacheSeconds=300" alt="Seguidores" />
 <img  src="https://img.shields.io/github/stars/ErivanJr-3?style=for-the-badge&amp;color=36577D&amp;labelColor=161B22&amp;label=Estrelas" alt="Estrelas" />
 </div>
 
