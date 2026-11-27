@@ -47,19 +47,43 @@ Technology and business management enthusiast exploring software development, Sa
 
 ## 📌 Featured project
 
-### Gestão MEI
+<table>
+<tr>
+<td colspan="3">
 
-A system under development designed to help organize small businesses.
+**Gestão MEI** &nbsp; · &nbsp; <sub>🔒 In development</sub>
 
-<div align="center">
-<img  src="https://img.shields.io/badge/Scheduling-223B55?style=for-the-badge" alt="Scheduling" />
-<img  src="https://img.shields.io/badge/Inventory-223B55?style=for-the-badge" alt="Inventory" />
-<img  src="https://img.shields.io/badge/Pricing-223B55?style=for-the-badge" alt="Pricing" />
-</div>
+A digital solution designed to simplify management for microentrepreneurs.
 
-**Goal:** simplify management for microentrepreneurs by bringing essential features into one digital solution.
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
 
-*Private project under development.*
+📅 **Scheduling**
+
+Appointment management
+
+</td>
+<td align="center" width="33%">
+
+📦 **Inventory**
+
+Product tracking
+
+</td>
+<td align="center" width="33%">
+
+💲 **Pricing**
+
+Price calculation
+
+</td>
+</tr>
+</table>
+
+<sub>🔒 Private repository</sub>
+
 
 ## 📊 GitHub statistics
 
