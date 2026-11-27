@@ -14,11 +14,11 @@
 <img  src="https://img.shields.io/github/stars/ErivanJr-3?style=for-the-badge&amp;color=36577D&amp;labelColor=161B22&amp;label=Stars" alt="Stars" />
 </div>
 
-## ✦ About me
+## About me
 
 Technology and business management enthusiast exploring software development, SaaS, artificial intelligence and process automation. My goal is to turn real-world challenges into useful, efficient and intuitive digital solutions.
 
-## 🚀 Areas of focus
+## Areas of focus
 
 | Software development | Artificial intelligence |
 | :--- | :--- |
@@ -26,7 +26,7 @@ Technology and business management enthusiast exploring software development, Sa
 | **Process automation** | **Business management** |
 | Simplifying tasks and digital workflows. | Systems that support organization and decision-making. |
 
-## 🛠️ Technologies I'm exploring
+## Technologies I'm exploring
 
 <div align="center">
 <strong>Front-end</strong><br />
@@ -45,13 +45,13 @@ Technology and business management enthusiast exploring software development, Sa
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" />
 </div>
 
-## 📌 Featured project
+## Featured project
 
 <table>
 <tr>
 <td colspan="3">
 
-**Gestão MEI** &nbsp; · &nbsp; <sub>🔒 In development</sub>
+**Gestão MEI** &nbsp; · &nbsp; <sub>In development</sub>
 
 A digital solution designed to simplify management for microentrepreneurs.
 
@@ -60,21 +60,21 @@ A digital solution designed to simplify management for microentrepreneurs.
 <tr>
 <td align="center" width="33%">
 
-📅 **Scheduling**
+**Scheduling**
 
 Appointment management
 
 </td>
 <td align="center" width="33%">
 
-📦 **Inventory**
+**Inventory**
 
 Product tracking
 
 </td>
 <td align="center" width="33%">
 
-💲 **Pricing**
+**Pricing**
 
 Price calculation
 
@@ -82,10 +82,10 @@ Price calculation
 </tr>
 </table>
 
-<sub>🔒 Private repository</sub>
+<sub>Private repository</sub>
 
 
-## 📊 GitHub statistics
+## GitHub statistics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ErivanJr-3&amp;show_icons=true&amp;hide_border=false&amp;rank_icon=github&amp;bg_color=0D1117&amp;title_color=91A7C3&amp;text_color=C9D1D9&amp;icon_color=7994B8&amp;border_color=30363D" alt="GitHub statistics" />
@@ -96,13 +96,13 @@ Price calculation
 <img width="75%" src="https://streak-stats.demolab.com?user=ErivanJr-3&amp;theme=dark&amp;background=0D1117&amp;ring=91A7C3&amp;fire=79A9DC&amp;currStreakLabel=91A7C3&amp;border=30363D&amp;locale=en" alt="Contribution streak" />
 </div>
 
-## 📈 Recent activity
+## Recent activity
 
 <div align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErivanJr-3&amp;bg_color=0d1117&amp;color=91A7C3&amp;line=5C84B1&amp;point=C9D1D9&amp;area=true&amp;area_color=36577D&amp;hide_border=false&amp;border_color=30363D&amp;custom_title=GitHub%20activity" alt="Activity graph" />
 </div>
 
-## 🐍 Contributions
+## Contributions
 
 <!-- The first successful GitHub Actions run publishes these images to the output branch. -->
 <img alt="Contribution snake" width="100%" src="https://raw.githubusercontent.com/ErivanJr-3/ErivanJr-3/output/github-snake-dark.svg" />
