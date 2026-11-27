@@ -15,15 +15,15 @@ Technology and business management enthusiast exploring software development, Sa
 ## Technologies I'm exploring
 
 <div align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&amp;logo=javascript&amp;logoColor=91A7C3" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&amp;logo=typescript&amp;logoColor=91A7C3" />
-  <img alt="React" src="https://img.shields.io/badge/React-161B22?style=for-the-badge&amp;logo=react&amp;logoColor=91A7C3" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=91A7C3" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=91A7C3" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-161B22?style=for-the-badge&amp;logo=supabase&amp;logoColor=91A7C3" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&amp;logo=postgresql&amp;logoColor=91A7C3" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&amp;logo=git&amp;logoColor=91A7C3" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=91A7C3" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6" />
+  <img alt="React" src="https://img.shields.io/badge/React-161B22?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=FFFFFF" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=5FA04E" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-161B22?style=for-the-badge&amp;logo=supabase&amp;logoColor=3ECF8E" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&amp;logo=postgresql&amp;logoColor=80A9D3" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&amp;logo=git&amp;logoColor=F05032" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" />
 </div>
 
 ## Featured projects
