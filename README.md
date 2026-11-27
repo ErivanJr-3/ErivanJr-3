@@ -1,6 +1,12 @@
 <div align="center">
-  <img width="100%" src="./assets/banner.svg" alt="Erivan Junior — Technology, Business & Innovation" />
-  <a href="https://github.com/ErivanJr-3"><img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=2563EB&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais;Turning+ideas+into+digital+solutions;Technology+%7C+Business+%7C+Innovation" alt="Animated introduction" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+    <img width="100%" src="./assets/banner.svg" alt="Erivan Junior — Technology, Business &amp; Innovation" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=45658D&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais;Turning+ideas+into+digital+solutions;Technology+%7C+Business+%7C+Innovation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=91A7C3&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais;Turning+ideas+into+digital+solutions;Technology+%7C+Business+%7C+Innovation" alt="Animated introduction" />
+  </picture>
 </div>
 
 ## Sobre mim | About me
@@ -12,7 +18,10 @@
 ## Tecnologias em exploração | Technologies I'm exploring
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,supabase,postgres,git,github&amp;perline=9" alt="JavaScript, TypeScript, React, Next.js, Node.js, Supabase, PostgreSQL, Git and GitHub" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,supabase,postgres,git,github&amp;perline=9&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,supabase,postgres,git,github&amp;perline=9&amp;theme=dark" alt="JavaScript, TypeScript, React, Next.js, Node.js, Supabase, PostgreSQL, Git and GitHub" />
+  </picture>
 </div>
 
 ## Projetos em destaque | Featured projects
@@ -26,8 +35,14 @@
 ## Estatísticas | GitHub analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ErivanJr-3&amp;show_icons=true&amp;hide_border=true&amp;title_color=2563eb&amp;icon_color=2563eb&amp;rank_icon=github&amp;theme=transparent" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErivanJr-3&amp;layout=compact&amp;hide_border=true&amp;title_color=2563eb&amp;theme=transparent" alt="Most used public repository languages" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ErivanJr-3&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=F6F8FA&amp;title_color=36577D&amp;text_color=334155&amp;icon_color=45658D&amp;border_color=D0D7DE" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ErivanJr-3&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=0D1117&amp;title_color=91A7C3&amp;text_color=C9D1D9&amp;icon_color=7994B8&amp;border_color=30363D" alt="GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ErivanJr-3&amp;layout=compact&amp;hide_border=true&amp;bg_color=F6F8FA&amp;title_color=36577D&amp;text_color=334155&amp;icon_color=45658D&amp;border_color=D0D7DE" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErivanJr-3&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=91A7C3&amp;text_color=C9D1D9&amp;icon_color=7994B8&amp;border_color=30363D" alt="Most used public repository languages" />
+  </picture>
 </div>
 
 ## Contribuições | Contributions
